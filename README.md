@@ -1,2 +1,2 @@
 # MiRepo
-Tarea para el m[odulo 6
+Tarea para el módulo 6
